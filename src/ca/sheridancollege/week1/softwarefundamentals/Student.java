@@ -9,7 +9,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  *
  * @author sidhu376
  */
-public class Student {
+public class Student { //jan 22 2019
     
     private String name;
     private double GPA;
