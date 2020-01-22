@@ -14,6 +14,15 @@ public class Student { //jan 22 2019
     private String name;
     private double GPA;
     private String email;
+    private String status; //Alt + insert to add getting and setters
+
+    public String getStatus() {
+        return status;
+    }
+
+    public void setStatus(String status) {
+        this.status = status;
+    }
 
     public String getEmail() {
         return email;
